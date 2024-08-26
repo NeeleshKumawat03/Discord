@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Font Setup */
+
+/* gg-sans */
+@font-face {
+    font-family: gg-sans;
+    font-weight: 400;
+    src: url(/Fonts/gg-sans/ggsans-Normal.ttf) format("ttf");
+}
+@font-face {
+    font-family: gg-sans;
+    font-weight: 500;
+    src: url(/Fonts/gg-sans/ggsans-Medium.ttf) format("ttf");
+}
+@font-face {
+    font-family: gg-sans;
+    font-weight: 600;
+    src: url(/Fonts/gg-sans/ggsans-Semibold.ttf) format("ttf");
+}
+@font-face {
+    font-family: gg-sans;
+    font-weight: 700;
+    src: url(/Fonts/gg-sans/ggsans-Normal.ttf) format("ttf");
+}
+
+/* Ginto */
+@font-face {
+    font-family: Ginto;
+    font-weight: 300;
+    src: url(/Fonts/Ginto/Ginto-300.woff) format("woff");
+}
+@font-face {
+    font-family: Ginto;
+    font-weight: 400;
+    src: url(/Fonts/Ginto/Ginto-400.woff) format("woff");
+}
+@font-face {
+    font-family: Ginto;
+    font-weight: 500;
+    src: url(/Fonts/Ginto/Ginto-500.woff) format("woff");
+}
+@font-face {
+    font-family: Ginto;
+    font-weight: 600;
+    src: url(/Fonts/Ginto/Ginto-600.woff) format("woff");
+}
+@font-face {
+    font-family: Ginto;
+    font-weight: 700;
+    src: url(/Fonts/Ginto/Ginto-700.woff) format("woff");
+}
+
+/* Whitney */
+@font-face {
+    font-family: Whitney;
+    font-weight: 300;
+    src: url(/Fonts/Whitney/Whitney-300.woff) format("woff");
+}
+@font-face {
+    font-family: Whitney;
+    font-weight: 400;
+    src: url(/Fonts/Whitney/Whitney-400.woff) format("woff");
+}
+@font-face {
+    font-family: Whitney;
+    font-weight: 500;
+    src: url(/Fonts/Whitney/Whitney-500.woff) format("woff");
+}
+@font-face {
+    font-family: Whitney;
+    font-weight: 600;
+    src: url(/Fonts/Whitney/Whitney-600.woff) format("woff");
+}
+@font-face {
+    font-family: Whitney;
+    font-weight: 700;
+    src: url(/Fonts/Whitney/Whitney-700.woff) format("woff");
+}
